@@ -1,0 +1,10 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: rgba(200, 200, 200, 0.8);
+}
+
+.footer a {
+  font-size: 30px;
+  color: rgba(40, 40, 40, 1)
+}

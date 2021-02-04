@@ -1,0 +1,32 @@
+.banner {
+  background-size: cover;
+  background-position: top;
+  padding: 0px;
+  height: 600px;
+}
+
+.banner-container {
+  color: white;
+  padding: 360px 350px 50px 350px;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #3580BA;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  margin-top: 30px;
+}
+
+.btn-primary:hover {
+  background-color: #004385
+}
+
+.colors {
+  background-color: #031A6B;
+  background-color: #009FFD;
+  background-color: #033860;
+  background-color: #004385;
+  background-color: #F0EDEE;
+}
